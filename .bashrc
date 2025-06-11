@@ -8,6 +8,7 @@ alias lh="ls -lh"
 alias la="ls -a"
 alias pileface="shuf -i 0-1 -n 1"
 alias arc-en-ciel='yes "$(seq 231 -1 16)" | while read i; do printf "\x1b[48;5;${i}m\n"; sleep .02; done'
+alias wa="watch -n 0,5"
 
 ##### FONCTIONS #####
 ex ()
