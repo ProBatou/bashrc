@@ -1,3 +1,4 @@
+# Release-managed by GitHub Actions
 HISTSIZE=5000
 TERM=xterm-256color
 
